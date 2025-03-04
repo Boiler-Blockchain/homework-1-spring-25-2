@@ -1,5 +1,5 @@
 
-# Homework 1 for the BoilerBlockchain Technical Course (Spring 2023)
+# Homework 1 for the BoilerBlockchain Technical Course (Spring 2025)
 
 ## Setup
 
