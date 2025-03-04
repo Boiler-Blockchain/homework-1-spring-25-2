@@ -5,7 +5,7 @@
 1. **Download and install Node.js:** [https://nodejs.org/en/download/](https://nodejs.org/en/download/)  
 2. **Clone the GitHub repository:**  
 ```bash
-git clone [https://github.com/Boiler-Blockchain/homework-1-spring25.git](https://github.com/Boiler-Blockchain/homework-1-spring-25-2.git)
+git clone https://github.com/Boiler-Blockchain/homework-1-spring25.git
 ```
 3.	Open a terminal in the cloned folder.
 4.	Install dependencies:
